@@ -10,7 +10,7 @@ sensor to the table of sensors in the database.
 - GET /measurements -> Returns all measurements from the database.
 - GET /measurements/rainyDaysCount -> Returns the number of rainy days from the database.
 #
-### Technoligies used:
+### Technologies used:
 - Java 11
 - Spring Web
 - Spring Boot
